@@ -70,7 +70,7 @@ By integrating both approaches, the project identifies key pathways and candidat
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/AkshathNair/Genome_analysis
+git clone https://github.com/AkshathNair/efaecium-rnaseq-tnseq
 cd Genome_analysis
 ```
 ### 2. Load modules
