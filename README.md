@@ -71,7 +71,7 @@ By integrating both approaches, the project identifies key pathways and candidat
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/AkshathNair/efaecium-rnaseq-tnseq
-cd Genome_analysis
+cd efaecium-rnaseq-tnseq
 ```
 ### 2. Load modules
 ```bash
