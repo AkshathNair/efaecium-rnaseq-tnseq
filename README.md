@@ -1,2 +1,2 @@
-# Genome_analysis
+# efaecium-rnaseq-tnseq
 This is temperory for now
