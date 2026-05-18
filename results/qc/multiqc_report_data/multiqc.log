@@ -1,0 +1,5 @@
+[2026-05-10 15:20:03,049] multiqc.core.update_config                         [INFO   ]  Report title: E. faecium E745 RNA-seq QC Report
+[2026-05-10 15:20:03,232] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.34 now available!
+[2026-05-10 15:20:03,233] multiqc.core.file_search                           [INFO   ]  Search path: /home/akshath/efaecium_project/results/qc/fastqc_raw
+[2026-05-10 15:20:03,233] multiqc.core.file_search                           [INFO   ]  Search path: /home/akshath/efaecium_project/results/qc/fastqc_trimmed
+[2026-05-10 15:20:04,048] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 24 reports
