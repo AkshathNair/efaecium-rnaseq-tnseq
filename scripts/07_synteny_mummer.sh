@@ -2,7 +2,7 @@
 #SBATCH -A uppmax2026-1-61
 #SBATCH -p pelle
 #SBATCH -c 2
-#SBATCH -t 01:00:00
+#SBATCH -t 24:00:00
 #SBATCH -J mummer_synteny
 #SBATCH --mail-type=ALL
 #SBATCH --output=/home/akshath/efaecium_project/logs/mummer_synteny.%j.out

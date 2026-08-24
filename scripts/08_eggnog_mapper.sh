@@ -25,8 +25,9 @@ emapper.py \
     --go_evidence all \
     --target_orthologs all \
     --seed_ortholog_evalue 0.001 \
-    --tax_scope Bacteria \
     -m hmmer \
+    -d Enterococcaceae \
+    --data_dir /sw/data/eggNOG_data/5.0.0/rackham \
     --override
 
 echo "Job finished: $(date)"

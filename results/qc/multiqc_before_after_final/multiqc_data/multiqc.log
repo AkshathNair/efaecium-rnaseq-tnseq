@@ -1,0 +1,5 @@
+[2026-08-24 16:14:26,700] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.35 now available!
+[2026-08-24 16:14:26,701] multiqc.core.file_search                           [INFO   ]  Search path: /home/akshath/efaecium_project/results/qc/fastqc_raw
+[2026-08-24 16:14:26,701] multiqc.core.file_search                           [INFO   ]  Search path: /home/akshath/efaecium_project/results/qc/fastqc_trimmed_new
+[2026-08-24 16:14:26,701] multiqc.core.file_search                           [INFO   ]  Search path: /home/akshath/efaecium_project/results/qc/fastqc_trimmed_serum
+[2026-08-24 16:14:27,691] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 24 reports

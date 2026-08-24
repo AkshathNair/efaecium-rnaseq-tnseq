@@ -11,8 +11,8 @@ echo "Job started: $(date)"
 
 module load HTSeq/2.1.2-gfbf-2024a
 
-BAMDIR=/proj/uppmax2026-1-61/nobackup/work/akshath/efaecium_project/bam_files
-GFF=/home/akshath/efaecium_project/results/annotation/prokka_output/Efaecium_E745.gff
+BAMDIR=/home/akshath/efaecium_project/results/alignment/rnaseq/bam_files
+GFF=/home/akshath/efaecium_project/results/annotation/prokka_output/Efaecium_E745_noFASTA.gff
 OUTDIR=/home/akshath/efaecium_project/results/counts
 
 mkdir -p $OUTDIR
